@@ -8,6 +8,7 @@
         @import url('./components/ui-elements/avatar.css');
         @import url('./components/ui-elements/buttons.css');
         @import url('./components/ui-elements/links.css');
+        @import url('./components/ui-elements/color.css');
 /* -- BASIC RESET -- */
 * {
     margin: 0;

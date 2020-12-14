@@ -1,6 +1,9 @@
 /* -- INITIALIZE GRID -- */
 .g-init {display: grid;}
     /* INITIALIZE GRID-COLUMS (STARTS AT 6 COLUMS)*/
+.gc-3 {grid-template-columns: repeat(3, 1fr);}
+.gc-4 {grid-template-columns: repeat(4, 1fr);}
+.gc-5 {grid-template-columns: repeat(5, 1fr);}
 .gc-6 {grid-template-columns: repeat(6, 1fr);}
 .gc-7 {grid-template-columns: repeat(7, 1fr);}
 .gc-8 {grid-template-columns: repeat(8, 1fr);}
