@@ -1,3 +1,4 @@
+/* Background color palettes */
 .bg-blue-100 {background-color:#1f48ff}
 .bg-blue-75 {background-color: #5776ff}
 .bg-blue-50 {background-color: #8fa3ff}
@@ -13,6 +14,9 @@
 .bg-grey-50 {background-color: #919191}
 .bg-grey-25 {background-color: #c8c8c8}
 
+.bg-white {background-color: #FFFFFF;}
+
+/* Color palettes */
 .c-blue-100 {color:#1f48ff}
 .c-blue-75 {color: #5776ff}
 .c-blue-50 {color: #8fa3ff}
@@ -28,6 +32,7 @@
 .c-grey-50 {color: #919191}
 .c-grey-25 {color: #c8c8c8}
 
+.c-white {-color: #FFFFFF;}
 
 
 
