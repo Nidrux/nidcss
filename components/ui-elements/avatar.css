@@ -1,0 +1,4 @@
+.avatar-l {border-radius: 100%; width: 125px; height: 125px;}
+.avatar-m {border-radius: 100%; width: 75px; height: 75px;}
+.avatar-s {border-radius: 100%; width: 50px; height: 50px;}
+.avatar-a {border-radius: 100%; max-width: 50%; height: auto;}

@@ -1,0 +1,43 @@
+/* -- INITIALIZE GRID -- */
+.g-init {display: grid;}
+    /* INITIALIZE GRID-COLUMS (STARTS AT 6 COLUMS)*/
+.gc-6 {grid-template-columns: repeat(6, 1fr);}
+.gc-7 {grid-template-columns: repeat(7, 1fr);}
+.gc-8 {grid-template-columns: repeat(8, 1fr);}
+.gc-9 {grid-template-columns: repeat(9, 1fr);}
+.gc-10 {grid-template-columns: repeat(10, 1fr);}
+.gc-11 {grid-template-columns: repeat(11, 1fr);}
+.gc-12 {grid-template-columns: repeat(12, 1fr);}
+    /* INITIALIZE GRID-COLUMS UI */
+.gc-2080 {grid-template-columns: 20% 80%;}
+    /* INITIALIZE GRID-ROWS(STARTS AT 2 ROWS)*/
+.gr-2 {grid-template-rows: repeat(2, 1fr);}
+.gr-3 {grid-template-rows: repeat(3, 1fr);}
+.gr-4 {grid-template-rows: repeat(4, 1fr);}
+.gr-5 {grid-template-rows: repeat(5, 1fr);}
+    /* GRID ROW MIN + AUTO (IN PERCENTAGES)*/
+.gr-2a {grid-template-rows: minmax(2%, auto);}
+.gr-3a {grid-template-rows: minmax(3%, auto);}
+.gr-4a {grid-template-rows: minmax(4%, auto);}
+.gr-5a {grid-template-rows: minmax(5%, auto);}
+.gr-6a {grid-template-rows: minmax(6%, auto);}
+.gr-7a {grid-template-rows: minmax(7%, auto);}
+.gr-8a {grid-template-rows: minmax(8%, auto);}
+.gr-9a {grid-template-rows: minmax(9%, auto);}
+.gr-10a {grid-template-rows: minmax(10%, auto);}
+.gr-20a {grid-template-rows: minmax(20%, auto);}
+.gr-30a {grid-template-rows: minmax(30%, auto);}
+.gr-40a {grid-template-rows: minmax(40%, auto);}
+.gr-50a {grid-template-rows: minmax(50%, auto);}
+    /* SET GRID GAP (IN PERCENTAGES)*/
+.gg-1{gap: 1%;}
+.gg-2{gap: 2%}
+.gg-3{gap: 3%}
+.gg-4{gap: 4%}
+.gg-5{gap: 5%}
+.gg-6{gap: 6%}
+.gg-7{gap: 7%}
+.gg-8{gap: 8%}
+.gg-9{gap: 9%}
+.gg-10{gap: 10%}
+

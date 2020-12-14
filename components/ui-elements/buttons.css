@@ -1,0 +1,21 @@
+.button-flat {
+    padding: 1% 2%;
+    color: white;
+    background-color: rgb(16, 52, 255);
+    transition: 500ms all ease-in-out;
+}
+.button-flat:hover {
+    background-color:  rgb(68, 96, 255);
+    color: rgb(0, 0, 0);
+}
+.button-round{
+    padding: 1% 2%;
+    border-radius: 25px;
+    color: white;
+    background-color: rgb(16, 52, 255);
+    transition: 500ms all ease-in-out;
+}
+.button-round:hover {
+    background-color:  rgb(68, 96, 255);
+    color: rgb(0, 0, 0);
+}

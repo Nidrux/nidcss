@@ -1,0 +1,13 @@
+/* -- INITIALIZE GRID -- */
+.fb-init {display: flex;}
+    /* FLEX DIRECTION */
+.fd-row {flex-direction: row;}
+.fd-col {flex-direction: column;}
+    /* FLEXBOX CENTER */
+.fb-center {align-items: center;justify-content: center;}
+    /* FLEXBOX JUSTIFY */
+.fj-end {justify-content: flex-end;}
+.fj-around {justify-content: space-around;}
+.fj-between {justify-content: space-between;}
+    /* FLEXBOX ALIGN*/
+.fa-center {align-items: center;}

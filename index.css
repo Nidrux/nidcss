@@ -1,0 +1,17 @@
+/* -- COMPONENTS -- */
+    /* -> global properties */
+        @import url('./components/global-properties/flexbox.css');
+        @import url('./components/global-properties/grid.css');
+        @import url('./components/global-properties/padMar.css');
+        @import url('./components/global-properties/size.css');
+    /* -> ui elements */
+        @import url('./components/ui-elements/avatar.css');
+        @import url('./components/ui-elements/buttons.css');
+        @import url('./components/ui-elements/links.css');
+/* -- BASIC RESET -- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* DOCS https://www.nidrux.com/nidcss/documentation */
