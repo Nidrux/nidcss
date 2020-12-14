@@ -4,6 +4,7 @@
         @import url('./components/global-properties/grid.css');
         @import url('./components/global-properties/padMar.css');
         @import url('./components/global-properties/size.css');
+        @import url('./components/global-properties/fonts.css');
     /* -> ui elements */
         @import url('./components/ui-elements/avatar.css');
         @import url('./components/ui-elements/buttons.css');
